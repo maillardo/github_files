@@ -1,4 +1,4 @@
-ch='essai de chaine'  ###commentaire
+ch='essai de chaine'  ###commentaire ameliore
 i=0
 while i<len(ch):    
     if ch[i]=="e":
